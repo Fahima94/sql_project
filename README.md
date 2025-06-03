@@ -2,7 +2,7 @@
 
 ## 📋 Description du Projet
 
-Ce projet présente une analyse complète des données immobilières françaises à travers 12 requêtes SQL avancées. L'objectif est d'extraire des insights pertinents sur le marché immobilier, les tendances de prix, et les patterns géographiques des ventes immobilières.
+Ce projet présente une analyse complète des données immobilières françaises à travers 12 requêtes SQL avancées. La base de données a été crée depuis les bases du client et des bases du cadastre jointure effectuée avec la base de données des communes du gouvernement. L'objectif après extraction netoyage et fusion, est d'extraire des insights pertinents en SQL sur le marché immobilier, les tendances de prix, et les patterns géographiques des ventes immobilières.
 
 ## 🎯 Objectifs d'Analyse
 
