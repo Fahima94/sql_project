@@ -1,8 +1,8 @@
 -- =================================================================
 -- PROJET D'ANALYSE IMMOBILIÈRE - BASE DE DONNÉES DATAIMMO
 -- =================================================================
--- Auteur: [Votre Nom]
--- Date: [Date de création]
+-- Auteur: Fahima Behillil
+-- Date: 2025
 -- Description: Analyse complète des données immobilières françaises
 -- Période d'analyse: Année 2020 (focus 1er semestre)
 -- =================================================================
